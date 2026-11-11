@@ -18,7 +18,7 @@ That is a cookie! Not very special though...
 I love snickerdoodle cookies!
 ```
 
-![Página após pesquisar snickerdoodle](../evidencias/cookies-pesquisa.png)
+![Página após pesquisar snickerdoodle](../../images/web-cookies-CyLab/cookies-pesquisa.png)
 
 O cookie `name` é enviado pelo cliente. Alterar seu valor permite testar como o servidor escolhe o conteúdo da resposta.
 

@@ -45,7 +45,9 @@ No ambiente do desafio, executei os passos abaixo:
 
 Após o recarregamento, a página liberou a mensagem de administrador e exibiu a flag.
 
-![Cookie alterado e flag exibida após recarregar](images/cookieMonster/admin.png)
+![Cookie alterado e flag exibida após recarregar](images/cookieMonster/admin.png
+
+)
 
 ## Flag
 

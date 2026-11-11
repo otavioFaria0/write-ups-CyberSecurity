@@ -16,7 +16,7 @@ Um JPG pode armazenar metadados além dos pixels exibidos. No arquivo fornecido,
 
 O trecho relevante é:
 
-```xml
+```
 <cc:license rdf:resource='YWNhZGVteXt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9'/>
 ```
 
