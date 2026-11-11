@@ -1,0 +1,8 @@
+Data da execução: 11/11/2026
+Comando: python scripts/resolver.py so-meta
+
+Fonte: https://challenge-files.cylabacademy.net/library/8179732d3bcbaaf9dadfc7fe08aa5b7fbf1d3189b0a2dc90eca34dca38a85b4a/pico_img.png
+SHA-256: ed1f82da452172a27bb307ca7085de70bdbc703c9046b2babd84667d28ad24ff
+Chunk PNG: tEXt
+Metadado: Artist
+Flag: academy{s0_m3ta_45015e26}

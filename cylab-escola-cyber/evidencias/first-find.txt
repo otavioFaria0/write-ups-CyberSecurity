@@ -1,0 +1,7 @@
+Data da execução: 11/11/2026
+Comando: python scripts/resolver.py first-find
+
+Fonte: https://challenge-files.cylabacademy.net/library/72ca8cb60e55a597886dfb8e20bdb28d3ea7e73ca72987eb813a3558a8dd22bf/files.zip
+SHA-256: 470a354eeb44149e64cd8e6c4d3e70cef8cc3f16757743d129f823f8a77096fc
+Caminho: files/adequate_books/more_books/.secret/deeper_secrets/deepest_secrets/uber-secret.txt
+Flag: academy{f1nd_15_f457_ab443fd1}

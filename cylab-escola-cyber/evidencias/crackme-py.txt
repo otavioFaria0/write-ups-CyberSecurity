@@ -1,0 +1,8 @@
+Data da execução: 11/11/2026
+Comando: python scripts/resolver.py crackme-py
+
+Fonte: https://challenge-files.cylabacademy.net/library/1eb77f4c882ea622da246f47b4359567016b423c143d85816ccd9c58d7e5d95b/crackme_gen.py
+SHA-256: 9cc524201802342ce05642428f3269dc5e46f29e2caf7be8c5b0d8648a84df29
+Segredo: 24256>JL`>0c0Abc?FE02a_53e7fe7af5gN
+Transformação: ROT47
+Flag: academy{1m_4_p34nut_a20db6f76f27d8}
